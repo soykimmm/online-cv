@@ -5,7 +5,7 @@ title: Soy Kim - CV
 url: 'https://soykimmm.github.io'
 
 #change it according to your repository name
-baseurl: '/csdl-cv'
+baseurl: '/online-cv'
 
 description: Online CV of Soy Kim
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
